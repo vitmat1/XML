@@ -1,0 +1,9 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<student>
+    <first_name>Viktor</first_name>
+    <last_name>Matiukhin</last_name>
+    <age>34</age>
+    <animals>0</animals>
+    <salary>65000</salary>
+
+</student>
