@@ -1,0 +1,8 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<student>
+    <favorite_movie>Constantine</favorite_movie>
+    <favorites_series>Simpsons</favorites_series>
+    <Favorite_food>Cheese</Favorite_food>
+    <Favorite_season>Spring</Favorite_season>
+    <country>Japan</country>
+</student>

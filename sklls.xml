@@ -1,0 +1,24 @@
+<? xml version = "1.0" encoding = "UTF-8"?>
+<student>
+	<skill_1>SDLC,STLC</skill_1>
+	<skill_2>Client server architecture</skill_2>
+	<skill_3>HTTP requests,response,codes</skill_3>
+	<skill_4>JSON,XML</skill_4>
+	<skill_5>Test API - Postman</skill_5>
+	<skill_6>JS</skill_6>
+	<skill_7>Getting loghs from server</skill_7>
+	<skill_8>Sniffing http web server traffic via Charles and Fiddler</skill_8>
+	<skill_9>Dev tools</skill_9>
+	<skill_10>VPN</skill_10>
+	<skill_11>Mobile test iOs,Android</skill_11>
+	<skill_12>Xcode</skill_12>
+	<skill_13>Android Studio</skill_13>
+	<skill_14>Terminal Linux</skill_14>
+	<skill_15>Access to remote servers</skill_15>
+	<skill_16>SQL Basic</skill_16>
+	<skill_17>Database Postgres</skill_17>
+	<skill_18>Non relation Redis</skill_18>
+	<skill_19>Load test Jmeter</skill_19>
+	<skill_20>Scrum development methodology</skill_20>
+	<skill_21>Pyton basic</skill_21>
+</student>
