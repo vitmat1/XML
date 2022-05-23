@@ -1,1 +1,16 @@
-
+<? xml version = "1.0" encoding = "UTF-8"?>
+<bug_report>
+    <id>123</id>
+    <Title>Link doest work</Title>
+    <Severity>Hight</Severity>
+    <Priority>Middle</Priority>
+    <Issue type>Functional</Issue>
+    <Steps>
+        <1>open site</1>
+        <2>Scroll down</2>
+        <3>Try click link</3>
+    </Steps>
+    <Expected result>Going to the link page</Expected>
+    <Actual result>Link doest work</Actual>
+    <Additional info></Additional>
+</bug_report>
